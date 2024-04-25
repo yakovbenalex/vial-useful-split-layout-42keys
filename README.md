@@ -4,7 +4,7 @@ It may be useful for many purpose but especially for pregrammers =)
 
 It's pre final version (i hope)
 
-Layers:
+### Layers:
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/b39c7c21-1932-4687-94a7-d15626792671)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/69001157-1c94-48db-8503-0f1dbc835ce7)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6f861905-8711-4a90-aaee-96474e5c8725)
@@ -14,7 +14,7 @@ Layers:
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/9ddc272d-01db-4a5d-9963-ca3ef9f739e3)
 
 
-Macros:
+### Macros:
 M2 (double shift tap - used to change keyboard layout for selected text, by Caramba Switcher App or Punto Switcher)
 
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/a804d119-d328-4b02-921c-5f8d86aa4398)
