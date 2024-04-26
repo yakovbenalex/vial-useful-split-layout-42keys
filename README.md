@@ -6,10 +6,10 @@ It's pre final version (i hope)
 
 ### Layers:
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/b39c7c21-1932-4687-94a7-d15626792671)
-![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/69001157-1c94-48db-8503-0f1dbc835ce7)
+![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6722ba31-75fe-437c-8a97-9c13d03215db)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6f861905-8711-4a90-aaee-96474e5c8725)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6c4176d9-bcd2-4948-af30-e2f5fb3e5365)
-![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6b2afd38-8751-4d9f-bc11-02497eee6aa3)
+![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/d3cd8ef4-1634-4e47-9ea8-85d1397314a7)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/8a96de7c-b32a-4d57-b120-72dd407f6ac4)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/9ddc272d-01db-4a5d-9963-ca3ef9f739e3)
 
