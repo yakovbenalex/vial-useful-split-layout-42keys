@@ -1,15 +1,15 @@
 My version of layout in Vial for split keyboard with 42 key (3x6 + 3).
 
-It may be useful for many purpose but especially for pregrammers =)
+It may be useful for many purpose but especially for programmers =)
 
 It's pre final version (i hope)
 
 ### Layers:
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/b39c7c21-1932-4687-94a7-d15626792671)
-![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6722ba31-75fe-437c-8a97-9c13d03215db)
-![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6f861905-8711-4a90-aaee-96474e5c8725)
+![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/c57441e5-b1dc-4260-aee1-8edc85797ab1)
+![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/f9668402-fe44-4630-be73-1a27d8bbf32c)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/6c4176d9-bcd2-4948-af30-e2f5fb3e5365)
-![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/d3cd8ef4-1634-4e47-9ea8-85d1397314a7)
+![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/3cf8d6b3-a5e4-4fb5-a6b0-611737017ae1)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/8a96de7c-b32a-4d57-b120-72dd407f6ac4)
 ![image](https://github.com/yakovbenalex/vial-useful-split-layout-42keys/assets/92642709/9ddc272d-01db-4a5d-9963-ca3ef9f739e3)
 
